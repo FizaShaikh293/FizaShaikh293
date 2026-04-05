@@ -1,8 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=200&section=header&text=Fiza%20Shaikh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%26%20Blockchain%20Enthusiast%20🔐&descAlignY=60&descAlign=50)
+<h1>🔐 Fiza Shaikh</h1>
+<h3>Cybersecurity & Blockchain Enthusiast | Ireland 🇮🇪</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Breaking+things+ethically+since+day+one+🛡️;Blockchain+%7C+Web3+%7C+Cyber+Threat+Analysis;Always+Learning%2C+Always+Building+💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Breaking+things+ethically+since+day+one+%F0%9F%9B%A1%EF%B8%8F;Blockchain+%7C+Web3+%7C+Cyber+Threat+Analysis;Always+Learning%2C+Always+Building+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
