@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=200&section=header&text=Fiza%20Shaikh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%26%20Blockchain%20Enthusiast%20🔐&descAlignY=60&descAlign=50)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=200&section=header&text=Fiza%20Shaikh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%26%20Blockchain%20Enthusiast%20🔐&descAlignY=60&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Breaking+things+ethically+since+day+one+🛡️;Blockchain+%7C+Web3+%7C+Cyber+Threat+Analysis;Always+Learning%2C+Always+Building+💡)](https://git.io/typing-svg)
 
@@ -14,17 +14,13 @@
 
 🔐 Cybersecurity & Blockchain enthusiast based in **Ireland** 🇮🇪
 
-🎓 Recently completed the **Cisco Junior Cybersecurity Analyst Career Path**
+🎓 Recently completed **Msc In Blockchain Technologies And Applications**
 
 🌱 Currently exploring **Blockchain Security**, **Web3**, and **Cyber Threat Detection**
 
 🧠 Passionate about **Ethical Hacking**, **Digital Forensics**, and **Privacy Tech**
 
-🔬 I enjoy figuring out how systems break — because that's how you truly secure them
-
-⚡ When I'm not studying security, I'm gaming, reading, or breaking my own projects for fun
-
-📫 Reach me at **fiza.sk293@gmail.com**
+⚡ When I'm not studying security, I'm gaming or reading.
 
 </div>
 
@@ -72,6 +68,18 @@
 | Certification | Issuer | Status |
 |---|---|---|
 | 🛡️ Junior Cybersecurity Analyst Career Path | Cisco | ✅ Completed |
+| 🔍 Introduction to Digital Forensics | Security Blue Team | ✅ Feb 2026 |
+| 🔐 Encryption and Cryptography Essentials | IBM | ✅ Jul 2025 |
+| 📜 Solidity Advanced: Secure Smart Contracts & DApp Development | Packt | ✅ Completed |
+| 🛡️ Information Security Fundamentals | EC-Council | ✅ Completed |
+| 💰 Decentralized Finance (DeFi) Infrastructure | Duke University | ✅ Completed |
+| 🌐 Web3 and Blockchain Fundamentals | INSEAD | ✅ Completed |
+| 🔒 Introduction to Cybersecurity Essentials | IBM | ✅ Jul 2025 |
+| ⛓️ Blockchain Security | Infosec | ✅ Completed |
+| 🧱 Blockchain Basics | Coursera | ✅ Completed |
+| ☁️ Introduction to Cloud Identity | Google Cloud Security | ✅ Completed |
+| 🏆 Cybersecurity Professional | Google | ✅ Jul 2025 |
+| 🎯 Ethical Hacking Essentials | EC-Council | ✅ Apr 2023 |
 
 ---
 
