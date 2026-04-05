@@ -1,44 +1,41 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fiza%20Shaikh%20🔐&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%7C%20Blockchain%20%7C%20Privacy%20Tech&descAlignY=60&descAlign=50)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Blockchain+Enthusiast+🛡️;Ethical+Hacking+%7C+Digital+Forensics+%7C+Web3;Always+Learning%2C+Always+Building+💡)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=200&section=header&text=Fiza%20Shaikh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%26%20Blockchain%20Enthusiast%20🔐&descAlignY=60&descAlign=50)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=FizaShaikh293&label=Profile+views&color=0e75b6&style=flat)](https://github.com/FizaShaikh293)
-[![GitHub followers](https://img.shields.io/github/followers/FizaShaikh293?label=Followers&style=social)](https://github.com/FizaShaikh293)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Breaking+things+ethically+since+day+one+🛡️;Blockchain+%7C+Web3+%7C+Cyber+Threat+Analysis;Always+Learning%2C+Always+Building+💡)](https://git.io/typing-svg)
 
----
-
-## 🧑‍💻 About Me
-```yaml
-name: Fiza Shaikh
-location: Ireland 🇮🇪
-orcid: https://orcid.org/0009-0002-9090-3707
-current_focus:
-  - Exploring Blockchain Security & Web3
-  - Cyber Threat Detection & Analysis
-  - Building hands-on Cybersecurity projects
-  - Experimenting with ethical hacking & digital forensics
-interests:
-  - Cybersecurity & Threat Analysis
-  - Blockchain & Web3 Security
-  - Ethical Hacking & Digital Forensics
-  - Privacy-Focused Technologies
-open_to: Cybersecurity | Blockchain Security | Web3 roles
-```
-
-> **Cybersecurity & Blockchain Enthusiast** passionate about understanding how systems break — because the best way to secure something is to know how it can fail. Recently completed the **Cisco Junior Cybersecurity Analyst Career Path**, with growing expertise in threat detection, blockchain security, and privacy-preserving technologies.
+</div>
 
 ---
 
-## 🚀 Tech Stack & Tools
+<div align="center">
+
+## 👩‍💻 About Me
+
+🔐 Cybersecurity & Blockchain enthusiast based in **Ireland** 🇮🇪
+
+🎓 Recently completed the **Cisco Junior Cybersecurity Analyst Career Path**
+
+🌱 Currently exploring **Blockchain Security**, **Web3**, and **Cyber Threat Detection**
+
+🧠 Passionate about **Ethical Hacking**, **Digital Forensics**, and **Privacy Tech**
+
+🔬 I enjoy figuring out how systems break — because that's how you truly secure them
+
+⚡ When I'm not studying security, I'm gaming, reading, or breaking my own projects for fun
+
+📫 Reach me at **fiza.sk293@gmail.com**
+
+</div>
+
+---
+
+## 🚀 Tech Stack
 
 ### 🔐 Cybersecurity & Blockchain
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,6 +44,10 @@ open_to: Cybersecurity | Blockchain Security | Web3 roles
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🛠️ Tools & Frameworks
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -66,33 +67,29 @@ open_to: Cybersecurity | Blockchain Security | Web3 roles
 
 ---
 
-## 📌 Featured Projects
+## 🏅 Certifications
 
-### 🔷 SecurityandForensics-Projects
-
-> A collection of cybersecurity and digital forensics projects exploring vulnerability exploitation and privacy-preserving blockchain analysis.
-
-| Component | Details |
-|---|---|
-| **Focus Area** | Vulnerability exploitation & analysis |
-| **Blockchain** | Privacy-preserving blockchain analysis |
-| **Tech** | HTML, Python, Solidity |
-| **Goal** | Understand & secure real-world systems |
-
-**🏆 Outcome:** Hands-on application of ethical hacking and forensics principles
+| Certification | Issuer | Status |
+|---|---|---|
+| 🛡️ Junior Cybersecurity Analyst Career Path | Cisco | ✅ Completed |
 
 ---
 
+## 🌐 Let's Connect
 
----
-
-## 📬 Let's Connect!
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fizashaikh._)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fizashaikh293/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fiza.sk293@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-9090-3707)
 
+</div>
+
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00d4ff&animation=fadeIn)
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn)
+
+</div>
