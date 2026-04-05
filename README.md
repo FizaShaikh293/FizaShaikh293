@@ -83,23 +83,6 @@ open_to: Cybersecurity | Blockchain Security | Web3 roles
 
 ---
 
-## ⚡ Fun Fact
-
-> I enjoy figuring out how systems break just as much as how they work — because the best way to secure something is to understand how it can fail.
-
-When I'm not studying security, you'll find me:
-- 🎮 Playing video games and calling it *"strategic thinking practice"*
-- 📚 Reading books and pretending it's *"technical research"*
-- 🔧 Breaking my own projects so I can fix them better
-
----
-
-## 📊 GitHub Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=FizaShaikh293&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9)](https://github.com/FizaShaikh293)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=FizaShaikh293&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9)](https://github.com/FizaShaikh293)
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=FizaShaikh293&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff)](https://github.com/FizaShaikh293)
 
 ---
 
