@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>🔐 Fiza Shaikh</h1>
-<h3>Cybersecurity & Blockchain Enthusiast | Ireland 🇮🇪</h3>
+<h3>Cybersecurity & Blockchain Enthusiast</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Breaking+things+ethically+since+day+one+%F0%9F%9B%A1%EF%B8%8F;Blockchain+%7C+Web3+%7C+Cyber+Threat+Analysis;Always+Learning%2C+Always+Building+%F0%9F%92%A1)](https://git.io/typing-svg)
 
@@ -66,20 +66,20 @@
 
 ## 🏅 Certifications
 
-| Certification | Issuer | Status |
+| Certification | Issuer | Date |
 |---|---|---|
-| 🛡️ Junior Cybersecurity Analyst Career Path | Cisco | ✅ Completed |
+| 🛡️ Junior Cybersecurity Analyst Career Path | Cisco | ✅ March 2026 |
 | 🔍 Introduction to Digital Forensics | Security Blue Team | ✅ Feb 2026 |
-| 🔐 Encryption and Cryptography Essentials | IBM | ✅ Jul 2025 |
-| 📜 Solidity Advanced: Secure Smart Contracts & DApp Development | Packt | ✅ Completed |
-| 🛡️ Information Security Fundamentals | EC-Council | ✅ Completed |
-| 💰 Decentralized Finance (DeFi) Infrastructure | Duke University | ✅ Completed |
-| 🌐 Web3 and Blockchain Fundamentals | INSEAD | ✅ Completed |
-| 🔒 Introduction to Cybersecurity Essentials | IBM | ✅ Jul 2025 |
-| ⛓️ Blockchain Security | Infosec | ✅ Completed |
-| 🧱 Blockchain Basics | Coursera | ✅ Completed |
-| ☁️ Introduction to Cloud Identity | Google Cloud Security | ✅ Completed |
-| 🏆 Cybersecurity Professional | Google | ✅ Jul 2025 |
+| 🔐 Encryption and Cryptography Essentials | IBM | ✅ Jan 2026 |
+| 📜 Solidity Advanced: Secure Smart Contracts & DApp Development | Packt | ✅ Dec 2025 |
+| 🛡️ Information Security Fundamentals | EC-Council | ✅ Nov 2025 |
+| 💰 Decentralized Finance (DeFi) Infrastructure | Duke University | ✅ Oct 2025 |
+| 🌐 Web3 and Blockchain Fundamentals | INSEAD | ✅ Sep 2025 |
+| 🔒 Introduction to Cybersecurity Essentials | IBM | ✅ Aug 2025 |
+| ⛓️ Blockchain Security | Infosec | ✅ July 2025 |
+| 🧱 Blockchain Basics | Coursera | ✅ June 2025 |
+| ☁️ Introduction to Cloud Identity | Google Cloud Security | ✅ May 2025 |
+| 🏆 Cybersecurity Professional | Google | ✅ April 2025 |
 | 🎯 Ethical Hacking Essentials | EC-Council | ✅ Apr 2023 |
 
 ---
