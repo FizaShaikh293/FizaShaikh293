@@ -17,7 +17,7 @@
 
 🎓 Recently completed **Msc In Blockchain Technologies And Applications**
 
-🌱 Currently exploring **Blockchain Security**, **Web3**, and **Cyber Threat Detection**
+🌱 Currently exploring **Blockchain Security**, **Web3**, and **Cyber Security**
 
 🧠 Passionate about **Ethical Hacking**, **Digital Forensics**, and **Privacy Tech**
 
@@ -68,6 +68,7 @@
 
 | Certification | Issuer | Date |
 |---|---|---|
+| 📚 ISO/IEC 27001 Information Security Associate | SkillFront | ✅ May 2026 |
 | 🛡️ Junior Cybersecurity Analyst Career Path | Cisco | ✅ March 2026 |
 | 🔍 Introduction to Digital Forensics | Security Blue Team | ✅ Feb 2026 |
 | 🔐 Encryption and Cryptography Essentials | IBM | ✅ Jan 2026 |
@@ -75,12 +76,12 @@
 | 🛡️ Information Security Fundamentals | EC-Council | ✅ Nov 2025 |
 | 💰 Decentralized Finance (DeFi) Infrastructure | Duke University | ✅ Oct 2025 |
 | 🌐 Web3 and Blockchain Fundamentals | INSEAD | ✅ Sep 2025 |
-| 🔒 Introduction to Cybersecurity Essentials | IBM | ✅ Aug 2025 |
+| 🔒 Introduction to Cybersecurity Essentials | IBM | ✅ August 2025 |
 | ⛓️ Blockchain Security | Infosec | ✅ July 2025 |
 | 🧱 Blockchain Basics | Coursera | ✅ June 2025 |
 | ☁️ Introduction to Cloud Identity | Google Cloud Security | ✅ May 2025 |
 | 🏆 Cybersecurity Professional | Google | ✅ April 2025 |
-| 🎯 Ethical Hacking Essentials | EC-Council | ✅ Apr 2023 |
+| 🎯 Ethical Hacking Essentials | EC-Council | ✅ April 2023 |
 
 ---
 
