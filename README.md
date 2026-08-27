@@ -68,6 +68,7 @@
 
 | Certification | Issuer | Date |
 |---|---|---|
+| 🤖 Microsoft Certified: Security Operations Analyst Associate | Microsoft | ✅ August 2026
 | 📚 ISO/IEC 27001 Information Security Associate | SkillFront | ✅ May 2026 |
 | 🛡️ Junior Cybersecurity Analyst Career Path | Cisco | ✅ March 2026 |
 | 🔍 Introduction to Digital Forensics | Security Blue Team | ✅ Feb 2026 |
